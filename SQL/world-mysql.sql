@@ -1,7 +1,3 @@
--- world.sql -- for MS SQL Server 2008
--- prepared by Bill Weinman
--- for lynda.com course MySQL Essential Training (2014)
--- updated 2014-02-23
 
 CREATE DATABASE IF NOT EXISTS world DEFAULT CHARSET = utf8;
 USE world;

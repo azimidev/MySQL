@@ -5,8 +5,8 @@ define('SQLCOMMENT', '--');
 
 // ***** uncomment for PostgreSQL
 // define("DBENGINE", "pgsql");
-// define("PGSQLUSER", "sid");
-// define("PGSQLPASS", "foo.bar");
+// define("PGSQLUSER", "hassan");
+// define("PGSQLPASS", "azimi");
 // $db_list = array (
 //     'test',
 //     'world',
@@ -16,7 +16,7 @@ define('SQLCOMMENT', '--');
 
 // ***** uncomment for SQLite 3
 // define("DBENGINE", "sqlite3");
-// define("DBDIR", "/Users/billw/sqlite3_data");
+// define("DBDIR", "/Users/amir/sqlite3_data");
 // $db_list = array (
 //     ':memory:',
 //     'world.db',

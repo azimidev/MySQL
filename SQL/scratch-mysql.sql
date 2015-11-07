@@ -1,6 +1,3 @@
--- scratch database
--- mysql version
--- as of 2014-02-24 bw
 
 CREATE DATABASE IF NOT EXISTS scratch DEFAULT CHARSET = utf8;
 USE scratch;

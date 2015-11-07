@@ -1,7 +1,3 @@
---
--- Create album database
--- as of 2014-02-24 bw
---
 
 CREATE DATABASE IF NOT EXISTS album DEFAULT CHARSET = utf8;
 USE album;
